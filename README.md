@@ -9,5 +9,3 @@
  * Clica em Gerir conta 
  * Clica em segurança 
  * Ativa o Acesso a apps menos seguras 
-
-![tela](C:\Users\HELIEZERTOMAS MARIA\Documents\MeusProjectos\Sistema-de-Enviar-E-mail-com--phpmailer\tela.png)
