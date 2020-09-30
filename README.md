@@ -10,4 +10,4 @@
  * Clica em segurança 
  * Ativa o Acesso a apps menos seguras 
 
-![tela](tela.png)
+
